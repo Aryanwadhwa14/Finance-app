@@ -1,4 +1,4 @@
-# Finance App - Finance Management App 
+# Finance App - Finance Visualizer App 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" alt="Open Source">
