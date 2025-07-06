@@ -1,7 +1,6 @@
-# Finance App - Personal Finance Management App 
+# Finance App - Finance Management App 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" alt="Open Source">
   <img src="https://img.shields.io/badge/No%20Auth-Required-red.svg" alt="No Authentication">
   <img src="https://img.shields.io/badge/Version-1.0.0-orange.svg" alt="Version">
@@ -348,12 +347,6 @@ When reporting bugs, please include:
 - Steps to reproduce the issue
 - Expected vs actual behavior
 - Screenshots if applicable
-
----
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
